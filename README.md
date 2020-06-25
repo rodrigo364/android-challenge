@@ -15,6 +15,7 @@ Ao clicar no botão o usuário será direcionado para uma tela com a câmera abe
 A Tela 3 é a tela que vai mostrar os dados que foram lidos de outro usuário.
 
 Para efeito de teste, você pode utilizar esse QR Code para leitura:
+
 ![QR Code](https://easywork-challenge.web.app/user/qrcode.jpg)
 
 
