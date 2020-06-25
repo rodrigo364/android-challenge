@@ -21,9 +21,11 @@ Para efeito de teste, você pode utilizar esse QR Code para leitura:
 
 ## Lista de requisitos técnicos
 
-*O app deve ser feito com código limpo e legível
-*Siga um padrão de projeto no qual você se sinta confortável
-*POde utilizar bibliotecas, caso necessário
+* O app deve ser feito com código limpo e legível
+
+* Siga um padrão de projeto no qual você se sinta confortável
+
+* Pode utilizar bibliotecas, caso necessário
 
 
 ## Instalação
