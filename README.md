@@ -4,7 +4,7 @@
 
 ## Desafio
 
-> O candidato deverá desenvolver uma aplicação com 3 telas seguindo o seguinte layout:
+O candidato deverá desenvolver uma aplicação com 3 telas seguindo o seguinte layout:
 https://xd.adobe.com/view/5117f7d5-1869-4df9-b6c8-2be47461e7b7-0444/
 
 A Tela 1 terá um QRCode e um botão para ler o QRCode de alguém. O valor do QRCode é um JSON com os dados do usuário. Esses dados devem vir dessa API:
@@ -15,7 +15,7 @@ Ao clicar no botão o usuário será direcionado para uma tela com a câmera abe
 A Tela 3 é a tela que vai mostrar os dados que foram lidos de outro usuário.
 
 Para efeito de teste, você pode utilizar esse QR Code para leitura:
----IMAGEM DE QR CODE--
+![QR Code](https://easywork-challenge.web.app/user/qrcode.jpg)
 
 
 ## Lista de requisitos técnicos
