@@ -8,7 +8,7 @@ O candidato deverá desenvolver uma aplicação com 3 telas seguindo o seguinte 
 https://xd.adobe.com/view/5117f7d5-1869-4df9-b6c8-2be47461e7b7-0444/
 
 A Tela 1 terá um QRCode e um botão para ler o QRCode de alguém. O valor do QRCode é um JSON com os dados do usuário. Esses dados devem vir dessa API:
-https://easywork-challenge.web.app/user/
+https://easy-challenge-be0a6.web.app/user
 
 Ao clicar no botão o usuário será direcionado para uma tela com a câmera aberta onde poderá ler o QRCode de alguém. Essa é a segunda tela.
 
