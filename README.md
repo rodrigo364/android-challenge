@@ -16,7 +16,7 @@ A Tela 3 é a tela que vai mostrar os dados que foram lidos de outro usuário.
 
 Para efeito de teste, você pode utilizar esse QR Code para leitura:
 
-![QR Code](https://easywork-challenge.web.app/user/qrcode.jpg)
+![QR Code](https://easy-challenge-be0a6.web.app/resources/qr_yoou_challenge.svg)
 
 
 ## Lista de requisitos técnicos
