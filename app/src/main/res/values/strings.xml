@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidChallenge</string>
+    <string name="permission_yes">Ok</string>
+    <string name="permission_no">Não</string>
+    <string name="permission_message">Para usasr este recurso é necessário ativar a permissão da camera</string>
+    <string name="permission_granted">PErmissão ativa</string>
+    <string name="permission_denied">Permissão negado</string>
+    <string name="permission_never_again">Tentar novamente</string>
+</resources>
